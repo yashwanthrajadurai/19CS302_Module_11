@@ -1,19 +1,27 @@
-Complete the calculate_the_maximum function in the editor below.
+# EX 53 C program to remove duplicates in an array.
+## DATE:
+## AIM:
+To write a C program to remove duplicates in an array.
 
-calculate_the_maximum has the following parameters:
+## Algorithm
+1. 
+2. 
+3. 
+4.  
+5.   
 
-int n: the highest number to consider
-int k: the result of a comparison must be lower than this number to be considered
-Prints
+## Program:
+```
+/*
+C program to remove duplicates in an array
+Developed by: 
+RegisterNumber:  
+*/
+```
 
-Print the maximum values for the and, or and xor comparisons, each on a separate line.
+## Output:
 
-Input Format
 
-The only line contains 2 space-separated integers, n and k.
 
-Constraints
-
-2 <= n <= 10^3
-2 <= k <= n 
-
+## Result:
+Thus the program was executed and the output was verified successfully.
